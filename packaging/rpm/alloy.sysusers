@@ -1,0 +1,4 @@
+u alloy - "Alloy Service User" /var/lib/alloy
+g alloy -
+m alloy adm - - -
+m alloy systemd-journal - - -
